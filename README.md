@@ -21,7 +21,8 @@ Send these messages by your Discord account in any Channel or DM in Discord to c
 
 ### Start Activity
 ```
-start <type>
+start
+<type>
 <Details(optional)>
 <State(optional)>
 <Large Image URL(optional)>
